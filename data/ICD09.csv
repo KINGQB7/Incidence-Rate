@@ -1,0 +1,245 @@
+Code,Name,ICD,Korea
+1, All sites ,C00-96),0
+2, All sites but skin ,C00-96 but C44),
+3, Oral cavity and pharynx ,C00-14),1
+4, Lip ,C00),
+5, Tongue ,C01-02),
+6, Base of tongue ,C01),
+7," Tongue, other and unspecified parts ",C02),
+8, Mouth ,C03-06),
+9," Mouth, gum ",C03),
+10," Mouth, floor of ",C04),
+11," Mouth, palate ",C05),
+12," Mouth, other and unspecified parts ",C06),
+13, Salivary glands ,C07-08),
+14, Parotid gland ,C07),
+15," Salivary glands, other and unspecified ",C08),
+16, Tonsil ,C09),
+17, Oropharynx ,C10),
+18, Nasopharynx ,C11),
+19, Pyriform sinus ,C12),
+20, Hypopharynx ,C13),
+21, Pharynx unspecified ,C14),
+22, Digestive organs ,C15-26),
+23, Oesophagus ,C15),2
+24," 	Squamous cell carcinoma",NA,
+25," 	Adenocarcinoma",NA,
+26," 	Other specified carcinoma",NA,
+27," 	Unspecified carcinoma",NA,
+28," 	Sarcoma",NA,
+29," 	Other specified morphology",NA,
+30," 	Unspecified morphology",NA,
+31," 	Upper third ","C15.0,3)",
+32," 	Middle third ","C15.1,4)",
+33," 	Lower third ","C15.2,5)",
+34," 	Other and unspecified parts ",C15.8-9),
+35, Stomach ,C16),3
+36," 	Cardia ",C16.0),
+37," 	Fundus ",C16.1),
+38," 	Body ",C16.2),
+39," 	Pylorus and antrum ",C16.3-4),
+40," 	Other and unspecified parts ",C16.5-9),
+41, Small intestine ,C17),
+42, Colon ,C18),4
+43," 	Right ",C18.0-2),
+44," 	Transverse and flexures ",C18.3-5),
+45," 	Descending ",C18.6),
+46," 	Sigmoid ",C18.7),
+47," 	Other and unspecified parts ",C18.8-9),
+48, Rectosigmoid junction ,C19),5
+49, Rectum ,C20),5
+50, Anus ,C21) ,
+51," 	Squamous cell carcinoma",NA,
+52," 	Adenocarcinoma",NA,
+53," 	Other specified carcinoma",NA,
+54," 	Unspecified carcinoma",NA,
+55," 	Melanoma",NA,
+56," 	Other morphology",NA,
+57," 	Unspecified morphology",NA,
+58, Liver ,C22),6
+59," 	Hepatocellular carcinoma",NA,
+60," 	Cholangiocarcinoma",NA,
+61," 	Other specified carcinoma",NA,
+62," 	Unspecified carcinoma",NA,
+63," 	Hepatoblastoma",NA,
+64," 	Haemagiosarcoma",NA,
+65," 	Other specified sarcoma",NA,
+66," 	Other morphology",NA,
+67," 	Unspecified morphology",NA,
+68, Gallbladder ,C23),7
+69, Other and unspecified parts of biliary tract ,C24),7
+70, Pancreas ,C25),8
+71, Other and ill-defined digestive organs ,C26),
+72, Respiratory organs ,C30-39),
+73, Nasal cavity and middle ear ,C30),10
+74, Accessory sinuses ,C31),10
+75, Larynx ,C32),10
+76, Trachea ,C33),9
+77, Lung ,C34),9
+78," 	Squamous cell carcinoma",NA,
+79," 	Adenocarcinoma",NA,
+80," 	Small cell carcinoma",NA,
+81," 	Large cell carcinoma",NA,
+82," 	Other specified carcinoma",NA,
+83," 	Sarcoma",NA,
+84," 	Other morphology",NA,
+85," 	Unspecified morphology",NA,
+86, Thymus ,C37),10
+87," Heart, mediastinum and pleura ",C38),10
+88, Other and unspecified respiratory and intrathoracic organs ,C39),
+89, Bone ,C40-41),11
+90," 	Osteosarcoma",NA,
+91," 	Chondrosarcoma",NA,
+92," 	Ewing sarcoma",NA,
+93," 	Other specified sarcomas",NA,
+94," 	Unspecified sarcoma",NA,
+95," 	Other specified morphology",NA,
+96," 	Unspecified morphology",NA,
+97, Bone of limbs ,C40),
+98, Other bones ,C41),
+99, Skin ,C43-44),
+100, Melanoma of skin ,C43),13
+101," 	Head ",C43.0-4),
+102," 	Trunk ",C43.5),
+103," 	Upper limb ",C43.6),
+104," 	Lower limb ",C43.7),
+105," 	Other and unspecified ",C43.8-9),
+106, Other skin ,C44),"14,15"
+107, Mesothelial and soft tissues ,C45-49),
+108, Mesothelioma ,C45),
+109, Kaposi sarcoma ,C46),
+110, Peripheral nerves ,C47),12
+111, Peritoneum and retroperitoneum ,C48),
+112, Connective and soft tissue ,C49),12
+113, Breast ,C50),"16,17"
+114, Female genital organs ,C51-58),
+115, Vulva ,C51),19
+116, Vagina ,C52),19
+117, Cervix uteri ,C53),19
+118," 	Squamous cell carcinoma",NA,
+119," 	Adenocarcinoma",NA,
+120," 	Other specified carcinoma",NA,
+121," 	Unspecified carcinoma",NA,
+122," 	Sarcoma",NA,
+123," 	Other morphology",NA,
+124," 	Unspecified morphology",NA,
+125, Corpus uteri ,C54),19
+126," 	Adenocarcinoma",NA,
+127," 	Other specified carcinoma",NA,
+128," 	Unspecified carcinoma",NA,
+129," 	Sarcoma",NA,
+130," 	Other morphology",NA,
+131," 	Unspecified morphology",NA,
+132, Uterus unspecified ,C55),19
+133, Ovary ,C56),18
+134," 	Serous carcinoma",NA,
+135," 	Mucinous carcinoma",NA,
+136," 	Endometrioid carcinoma",NA,
+137," 	Clear cell carcinoma",NA,
+138," 	Adenocarcinoma",NA,
+139," 	Other specified carcinoma",NA,
+140," 	Unspecified carcinoma",NA,
+141," 	Sex cord-stromal tumour",NA,
+142," 	Germ cell tumour",NA,
+143," 	Other morphology",NA,
+144," 	Unspecified morphology",NA,
+145, Other female genital organs ,C57),19
+146," 	Fallopian tube ",C57.0),
+147," 	Other and unspecified female genital organs ",C57.1-9),
+148, Placenta ,C58),19
+149, Male genital organs ,C60-63),20
+150, Penis ,C60),
+151, Prostate ,C61),
+152, Testis ,C62),
+153," 	Seminoma",NA,
+154," 	Spermatocytic seminoma",NA,
+155," 	Non-seminomatous germ cell tumours",NA,
+156," 	Other specified morphology",NA,
+157," 	Unspecified morphology",NA,
+158, Other male genital organs ,C63),
+159, Urinary tract ,C64-68),
+160, Kidney ,C64),22
+161, Renal pelvis ,C65),22
+162, Ureter ,C66),22
+163, Bladder ,C67),21
+164," 	Squamous cell carcinoma",NA,
+165," 	Transitional cell carcinoma",NA,
+166," 	Adenocarcinoma",NA,
+167," 	Other specified carcinoma",NA,
+168," 	Unspecified carcinoma",NA,
+169," 	Sarcoma",NA,
+170," 	Other morphology",NA,
+171," 	Unspecified morphology",NA,
+172, Other urinary organs ,C68),22
+173," Eye, brain and central nervous system ",C69-72),
+174, Eye ,C69),23
+175," 	Retinoblastoma",NA,
+176," 	Melanoma",NA,
+177," 	Squamous cell carcinoma",NA,
+178," 	Other specified carcinoma",NA,
+179," 	Unspecified carcinoma",NA,
+180," 	Sarcoma",NA,
+181," 	Other morphology",NA,
+182," 	Unspecified morphology",NA,
+183, Meninges ,C70),24
+184, Central nervous system ,C71-72),24
+185," 	Astrocytic tumours",NA,
+186," 	Oligodendroglial tumours and mixed gliomas",NA,
+187," 	Ependymal tumours",NA,
+188," 	Gliomas of uncertain origin",NA,
+189," 	Medulloblastoma",NA,
+190," 	Other embryonal tumours",NA,
+191," 	Other neuroepithelial tumours",NA,
+192," 	Other specified morphology",NA,
+193," 	Unspecified morphology",NA,
+194, Brain ,C71),
+195, Other parts of central nervous system ,C72),
+196," 	Spinal cord, cauda equina ","C72.0,1)",
+197," 	Cranial nerves ",C72.2-5),
+198," 	Nervous system, NOS ",C72.8-9),
+199, Thyroid and other endocrine glands ,C73-75),
+200, Thyroid ,C73),25
+201,"	Follicular carcinoma",NA,
+202," 	Papillary carcinoma",NA,
+203," 	Medullary carcinoma",NA,
+204," 	Anaplastic carcinoma",NA,
+205," 	Other specified carcinoma",NA,
+206," 	Unspecified carcinoma",NA,
+207," 	Sarcoma",NA,
+208," 	Other morphology",NA,
+209," 	Unspecified morphology",NA,
+210, Adrenal gland ,C74),26
+211, Other endocrine ,C75),26
+212, Lymphoid tissues ,C81-96),
+213, Non-Hodgkin lymphoma ,"C82-85,C96)",28
+214," 	Burkitt lymphoma ",C83.7),
+215," 	Mycosis fungoides ",C84.0),
+216," 	Other and unspecified non-Hodgkin lymphoma",NA,
+217, Hodgkin disease ,C81),
+218," 	Nodular lymphocytic predominance",NA,
+219," 	Classical lymphocyte-rich",NA,
+220," 	Nodular sclerosis",NA,
+221," 	Mixed cellularity",NA,
+222," 	Lymphocytic depletion",NA,
+223," 	Unspecified",NA,
+224, Immunoproliferative diseases ,C88),28
+225, Multiple myeloma ,C90),28
+226, Leukaemia ,C91-95),29
+227, Lymphoid leukaemia ,C91),
+228," 	Acute ",C91.0),30
+229," 	Chronic ",C91.1),-29
+230," 	Other specified ",C91.2-7),
+231," 	Unspecified ",C91.9),30
+232, Myeloid leukaemia ,C92-94),
+233," 	Acute ","C92.0, C93.0, C94.0,C94.2,C94.4-5)",31
+234," 	Chronic ","C92.1, C93.1, C94.1)",32
+235," 	Other ","C92.2-7, C93.2-7,C94.3,C94.7)",
+236," 	Unspecified ","C92.9, C93.9)",31
+237," Leukaemia, cell unspecified ",C95),
+238," 	Acute ",C95.0),"30,31"
+239," 	Chronic ",C95.1),32
+240," 	Other ",C95.2-7),
+241," 	Unspecified ",C95.9),
+242, Myeloproliferative disorders,NA,
+243, Myelodysplastic syndromes,NA,
+244, Other and unspecified cancers,NA,

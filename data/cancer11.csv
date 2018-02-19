@@ -1,0 +1,242 @@
+"Code","Name","ICD"
+"001"," All sites ","C00-96)"
+"002"," All sites but skin ","C00-96 but C44)"
+"003"," Lip ","C00)"
+"004"," Base of tongue ","C01)"
+"005"," Tongue, other and unspecified parts ","C02)"
+"006"," Mouth, gum ","C03)"
+"007"," Mouth, floor of ","C04)"
+"008"," Mouth, palate ","C05)"
+"009"," Mouth, other and unspecified parts ","C06)"
+"010"," Parotid gland ","C07)"
+"011"," Salivary glands, other and unspecified ","C08)"
+"012"," Tonsil ","C09)"
+"013"," Oropharynx ","C10)"
+"014"," Nasopharynx ","C11)"
+"015"," Pyriform sinus ","C12)"
+"016"," Hypopharynx ","C13)"
+"017"," Pharynx unspecified ","C14)"
+"018"," Oesophagus ","C15)"
+"019"," 	Squamous cell carcinoma",NA
+"020"," 	Adenocarcinoma",NA
+"021"," 	Other specified carcinoma",NA
+"022"," 	Unspecified carcinoma",NA
+"023"," 	Sarcoma",NA
+"024"," 	Other specified morphology",NA
+"025"," 	Unspecified morphology",NA
+"026"," 	Upper third ","C15.0,3)"
+"027"," 	Middle third ","C15.1,4)"
+"028"," 	Lower third ","C15.2,5)"
+"029"," 	Other and unspecified parts ","C15.8-9)"
+"030"," Stomach ","C16)"
+"031"," 	Cardia ","C16.0)"
+"032"," 	Fundus ","C16.1)"
+"033"," 	Body ","C16.2)"
+"034"," 	Pylorus and antrum ","C16.3-4)"
+"035"," 	Other and unspecified parts ","C16.5-9)"
+"036"," Small intestine ","C17)"
+"037"," Colon ","C18)"
+"038"," 	Right ","C18.0-2)"
+"039"," 	Transverse and flexures ","C18.3-5)"
+"040"," 	Descending ","C18.6)"
+"041"," 	Sigmoid ","C18.7)"
+"042"," 	Other and unspecified parts ","C18.8-9)"
+"043"," Rectosigmoid junction ","C19)"
+"044"," Rectum ","C20)"
+"045"," Anus ","C21) "
+"046"," 	Squamous cell carcinoma",NA
+"047"," 	Adenocarcinoma",NA
+"048"," 	Other specified carcinoma",NA
+"049"," 	Unspecified carcinoma",NA
+"050"," 	Melanoma",NA
+"051"," 	Other morphology",NA
+"052"," 	Unspecified morphology",NA
+"053"," Liver ","C22)"
+"054"," 	Hepatocellular carcinoma",NA
+"055"," 	Cholangiocarcinoma",NA
+"056"," 	Other specified carcinoma",NA
+"057"," 	Unspecified carcinoma",NA
+"058"," 	Hepatoblastoma",NA
+"059"," 	Haemagiosarcoma",NA
+"060"," 	Other specified sarcoma",NA
+"061"," 	Other morphology",NA
+"062"," 	Unspecified morphology",NA
+"063"," Gallbladder ","C23)"
+"064"," Other and unspecified parts of biliary tract ","C24)"
+"065"," Pancreas ","C25)"
+"066"," Other and ill-defined digestive organs ","C26)"
+"067"," Nasal cavity and middle ear ","C30)"
+"068"," Accessory sinuses ","C31)"
+"069"," Larynx ","C32)"
+"070"," Trachea ","C33)"
+"071"," Lung ","C34)"
+"072"," 	Squamous cell carcinoma",NA
+"073"," 	Adenocarcinoma",NA
+"074"," 	Small cell carcinoma",NA
+"075"," 	Large cell carcinoma",NA
+"076"," 	Other specified carcinoma",NA
+"077"," 	Sarcoma",NA
+"078"," 	Other morphology",NA
+"079"," 	Unspecified morphology",NA
+"080"," Thymus ","C37)"
+"081"," Heart, mediastinum and pleura ","C38)"
+"082"," Other and unspecified respiratory and intrathoracic organs ","C39)"
+"083"," Bone ","C40-41)"
+"084"," 	Osteosarcoma",NA
+"085"," 	Chondrosarcoma",NA
+"086"," 	Ewing sarcoma",NA
+"087"," 	Other specified sarcomas",NA
+"088"," 	Unspecified sarcoma",NA
+"089"," 	Other specified morphology",NA
+"090"," 	Unspecified morphology",NA
+"091"," Bone of limbs ","C40)"
+"092"," Other bones ","C41)"
+"093"," Melanoma of skin ","C43)"
+"094"," 	Head ","C43.0-4)"
+"095"," 	Trunk ","C43.5)"
+"096"," 	Upper limb ","C43.6)"
+"097"," 	Lower limb ","C43.7)"
+"098"," 	Other and unspecified ","C43.8-9)"
+"099"," Non-melanoma skin cancer ","C44)"
+"100","	Squamous cell carcinoma",NA
+"101","	Basal cell carcinoma",NA
+"102","	Other specified carcinoma",NA
+"103","	Unspecified carcinoma",NA
+"104","	Other morphology",NA
+"105","	Unspecified morphology",NA
+"106"," Mesothelioma ","C45)"
+"107"," Kaposi sarcoma ","C46)"
+"108"," Peripheral nerves ","C47)"
+"109"," Peritoneum and retroperitoneum ","C48)"
+"110"," Connective and soft tissue ","C49)"
+"111"," Breast ","C50)"
+"112"," Vulva ","C51)"
+"113"," Vagina ","C52)"
+"114"," Cervix uteri ","C53)"
+"115"," 	Squamous cell carcinoma",NA
+"116"," 	Adenocarcinoma",NA
+"117"," 	Other specified carcinoma",NA
+"118"," 	Unspecified carcinoma",NA
+"119"," 	Sarcoma",NA
+"120"," 	Other morphology",NA
+"121"," 	Unspecified morphology",NA
+"122"," Corpus uteri ","C54)"
+"123"," 	Adenocarcinoma",NA
+"124"," 	Other specified carcinoma",NA
+"125"," 	Unspecified carcinoma",NA
+"126"," 	Sarcoma",NA
+"127"," 	Other morphology",NA
+"128"," 	Unspecified morphology",NA
+"129"," Uterus unspecified ","C55)"
+"130"," Ovary ","C56)"
+"131"," 	Serous carcinoma",NA
+"132"," 	Mucinous carcinoma",NA
+"133"," 	Endometrioid carcinoma",NA
+"134"," 	Clear cell carcinoma",NA
+"135"," 	Adenocarcinoma",NA
+"136"," 	Other specified carcinoma",NA
+"137"," 	Unspecified carcinoma",NA
+"138"," 	Sex cord-stromal tumour",NA
+"139"," 	Germ cell tumour",NA
+"140"," 	Other morphology",NA
+"141"," 	Unspecified morphology",NA
+"142"," Other female genital organs ","C57)"
+"143"," 	Fallopian tube ","C57.0)"
+"144"," 	Other and unspecified female genital organs ","C57.1-9)"
+"145"," Placenta ","C58)"
+"146"," Penis ","C60)"
+"147"," Prostate ","C61)"
+"148"," Testis ","C62)"
+"149"," 	Seminoma",NA
+"150"," 	Spermatocytic seminoma",NA
+"151"," 	Non-seminomatous germ cell tumours",NA
+"152"," 	Other specified morphology",NA
+"153"," 	Unspecified morphology",NA
+"154"," Other male genital organs ","C63)"
+"155"," Kidney and renal pelvis ","C64-65)"
+"156","	Squamous, transitional cell carcinoma",NA
+"157","	Renal cell carcinoma",NA
+"158","	Other specified carcinoma",NA
+"159","	Unspecified carcinoma",NA
+"160"," 	Other morphology",NA
+"161"," 	Unspecified morphology",NA
+"162"," Kidney ","C64)"
+"163"," Renal pelvis ","C65)"
+"164"," Ureter ","C66)"
+"165"," Bladder ","C67)"
+"166"," 	Squamous cell carcinoma",NA
+"167"," 	Transitional cell carcinoma",NA
+"168"," 	Adenocarcinoma",NA
+"169"," 	Other specified carcinoma",NA
+"170"," 	Unspecified carcinoma",NA
+"171"," 	Sarcoma",NA
+"172"," 	Other morphology",NA
+"173"," 	Unspecified morphology",NA
+"174"," Other urinary organs ","C68)"
+"175"," Eye ","C69)"
+"176"," 	Retinoblastoma",NA
+"177"," 	Melanoma",NA
+"178"," 	Squamous cell carcinoma",NA
+"179"," 	Other specified carcinoma",NA
+"180"," 	Unspecified carcinoma",NA
+"181"," 	Sarcoma",NA
+"182"," 	Other morphology",NA
+"183"," 	Unspecified morphology",NA
+"184"," Meninges ","C70)"
+"185"," Central nervous system ","C71-72)"
+"186"," 	Astrocytic tumours",NA
+"187"," 	Oligodendroglial tumours and mixed gliomas",NA
+"188"," 	Ependymal tumours",NA
+"189"," 	Gliomas of uncertain origin",NA
+"190"," 	Medulloblastoma",NA
+"191"," 	Other embryonal tumours",NA
+"192"," 	Other neuroepithelial tumours",NA
+"193"," 	Other specified morphology",NA
+"194"," 	Unspecified morphology",NA
+"195"," Brain ","C71)"
+"196"," Other parts of central nervous system ","C72)"
+"197"," 	Spinal cord, cauda equina ","C72.0,1)"
+"198"," 	Cranial nerves ","C72.2-5)"
+"199"," 	Nervous system, NOS ","C72.8-9)"
+"200"," Thyroid ","C73)"
+"201","	Follicular carcinoma",NA
+"202"," 	Papillary carcinoma",NA
+"203"," 	Medullary carcinoma",NA
+"204"," 	Anaplastic carcinoma",NA
+"205"," 	Other specified carcinoma",NA
+"206"," 	Unspecified carcinoma",NA
+"207"," 	Sarcoma",NA
+"208"," 	Other morphology",NA
+"209"," 	Unspecified morphology",NA
+"210"," Adrenal gland ","C74)"
+"211"," Other endocrine ","C75)"
+"212"," Hodgkin lymphoma ","C81)"
+"213"," 	Nodular lymphocytic predominance ",NA
+"214"," 	Classical lymphocyte-rich ",NA
+"215"," 	Nodular sclerosis ",NA
+"216"," 	Mixed cellularity",NA
+"217"," 	Lymphocytic depletion",NA
+"218"," 	Unspecified",NA
+"219"," Non-Hodgkin lymphoma ","C82-86,C96)"
+"220"," 	Burkitt lymphoma ","C83.7)"
+"221"," Immunoproliferative diseases ","C88)"
+"222"," Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lyphoma] ","C88.4)"
+"223"," Multiple myeloma ","C90)"
+"224"," Lymphoid leukaemia ","C91)"
+"225"," 	Acute ","C91.0)"
+"226"," 	Chronic ","C91.1)"
+"227"," 	Other specified ","C91.3-8)"
+"228"," 	Unspecified ","C91.9)"
+"229"," Myeloid leukaemia ","C92-94)"
+"230"," 	Acute ","C92.0,C92.4-6,C92.8,C93.0,C94.0,C94.2,C94.4)"
+"231"," 	Chronic ","C92.1-2,C93.1)"
+"232"," 	Other ","C92.3,C92.7,C93.3,C93.7,C94.3,C94.6-7)"
+"233"," 	Unspecified ","C92.9,C93.9)"
+"234"," Leukaemia, cell unspecified ","C95)"
+"235"," 	Acute ","C95.0)"
+"236"," 	Chronic ","C95.1)"
+"237"," 	Other ","C95.7)"
+"238"," 	Unspecified ","C95.9)"
+"239"," Myeloproliferative disorders",NA
+"240"," Myelodysplastic syndromes",NA
+"241"," Other, ill-defined and unspecified cancers",NA
